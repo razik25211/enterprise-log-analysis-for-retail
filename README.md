@@ -38,6 +38,8 @@ The system reads raw log files, processes them into structured data, and generat
 * Contains 2000 log entries
 * Simulates backend system logs
 
+link: https://github.com/logpai/loghub/blob/master/Apache/Apache_2k.log
+
 ---
 
 ## ⚙️ Workflow
