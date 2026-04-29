@@ -1,0 +1,20 @@
+error_message,cluster
+mod_jk child workerEnv in error state 6,1
+mod_jk child workerEnv in error state 7,1
+Directory index forbidden by rule: /var/www/html/,2
+mod_jk child workerEnv in error state 8,1
+mod_jk child workerEnv in error state 10,1
+mod_jk child workerEnv in error state 9,1
+jk2_init() Can't find child 1566 in scoreboard,4
+jk2_init() Can't find child 1567 in scoreboard,2
+mod_jk child init 1 -2,0
+jk2_init() Can't find child 2082 in scoreboard,3
+jk2_init() Can't find child 2085 in scoreboard,2
+jk2_init() Can't find child 2086 in scoreboard,2
+jk2_init() Can't find child 2087 in scoreboard,2
+jk2_init() Can't find child 5053 in scoreboard,2
+jk2_init() Can't find child 5054 in scoreboard,2
+jk2_init() Can't find child 5619 in scoreboard,2
+jk2_init() Can't find child 5620 in scoreboard,2
+jk2_init() Can't find child 5621 in scoreboard,2
+jk2_init() Can't find child 5622 in scoreboard,2

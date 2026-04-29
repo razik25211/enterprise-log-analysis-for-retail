@@ -1,0 +1,9 @@
+Metric,Value
+Total raw lines,2000
+Parsed lines,2000
+Unparsed lines,0
+Blank lines,0
+Parse success rate (%),100.0
+Error lines,595
+Unique log levels,2
+Time span,2005-12-04 04:47:44 to 2005-12-05 19:15:57
