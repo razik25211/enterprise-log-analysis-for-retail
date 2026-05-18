@@ -94,14 +94,32 @@ link: https://github.com/logpai/loghub/blob/master/Apache/Apache_2k.log
 project/
 ├── Apache_2k.log
 ├── notebook.ipynb
+├── app.py
+├── requirements.txt
+├── README.md
+│
 ├── outputs/
 │   ├── parsed_logs.csv
 │   ├── summary_metrics.csv
+│   ├── error_clusters.csv
 │   ├── log_level_distribution.png
 │   ├── error_frequency_daily.png
 │   ├── error_frequency_hourly.png
-│   ├── top_error_messages.png
-│   └── error_clusters.csv
+│   └── top_error_messages.png
+│
+├── screenshots/
+│   ├── dashboard_home.png
+│   ├── dataset_preview.png
+│   ├── log_distribution.png
+│   ├── error_trends_hourly.png
+│   ├── error_trends_daily.png
+│   └── top_errors.png
+│
+├── report/
+│   ├── project_report.pdf
+│   └── presentation.pptx
+│
+└── .gitignore
 ```
 
 ---
