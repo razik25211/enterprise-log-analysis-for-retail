@@ -10,6 +10,16 @@ This project focuses on analyzing system logs using Python to extract meaningful
 The system reads raw log files, processes them into structured data, and generates visualizations to identify error trends and recurring issues.
 
 ---
+## 🎯 Features
+
+• Regex-based log parsing
+• Error filtering and aggregation
+• Time-based trend analysis
+• Error clustering
+• CSV export support
+• Data visualization using Matplotlib
+• Interactive Streamlit dashboard
+• Browser-based log analysis
 
 ## 🎯 Objective
 
@@ -29,6 +39,7 @@ The system reads raw log files, processes them into structured data, and generat
 * scikit-learn
 * Regular Expressions (Regex)
 * Jupyter Notebook / Google Colab
+* streamlit
 
 ---
 
@@ -101,6 +112,7 @@ project/
 2. Upload the dataset
 3. Run cells sequentially
 4. View outputs and graphs
+5. Run app.py via VS code (Terminal code: streamlit run app.py)
 
 ---
 
